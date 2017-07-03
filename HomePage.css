@@ -1,0 +1,40 @@
+#navfont1{
+	font-family: Permanent Marker;
+	
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+body{
+	background: url(http://nerdywithchildren.com/wp-content/uploads/2013/07/girl-science.jpg);
+	background-size: cover;
+	color:black;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-blend-mode: screen;
+	background-color: #675843
+
+	}
+#content {
+	font-family: Lobster Two;
+	text-align:left;
+	padding-top:15%;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px	13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);
+}
+hr{
+	width:400px;
+	border-top:1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+h1{
+	font-weight:700;
+	font-size: 5em;
+}
+h3{
+	font-weight: 500;
+	font-size: 3em;
+	
+}

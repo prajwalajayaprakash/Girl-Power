@@ -1,0 +1,25 @@
+#navfont1{
+	font-family: Permanent Marker;
+	
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+body{
+	background: url(https://source.unsplash.com/JRVxgAkzIsM);
+	background-size: cover;
+	color:white;
+	font-family: Permanent Marker;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-left: 10px;
+	margin-right:10px;
+	}
+
+.images1{
+	margin-top: 30px;
+}
+.heading{
+	text-align: center;
+	text-transform: lowercase;
+}

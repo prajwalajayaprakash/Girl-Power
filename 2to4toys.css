@@ -9,7 +9,7 @@ body{
 	background: url(https://source.unsplash.com/JRVxgAkzIsM);
 	background-size: cover;
 	color:white;
-	font-family: Permanent Marker;
+	font-family: Tenali Ramakrishna;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	margin-left: 10px;
@@ -21,5 +21,9 @@ body{
 }
 .heading{
 	text-align: center;
-	text-transform: lowercase;
+	
+}
+.btn-default{
+	margin-left:20px;
+	margin-top: 10px;
 }

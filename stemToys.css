@@ -9,18 +9,26 @@ body{
 	background: url(https://source.unsplash.com/ldOzKqZa6wg);
 	background-size: cover;
 	color:white;
-	font-family: Permanent Marker;
+	font-family: Tenali Ramakrishna;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	margin-left: 10px;
 	margin-right:10px;
 	}
-h3{
+.heading{
 	text-align: center;
 	font-weight: 700;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background-color: gray;
 	margin-bottom: 30px;
-
+	color: white;
 }	
+.btn-default {
+  color: #333;
+  background-color: pink;
+  border-color: #ccc;
+  margin-bottom: 20px;
+}
+.topImages{
+	margin-top: 80px;
+}

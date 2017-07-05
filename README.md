@@ -17,5 +17,11 @@ __3. 2 to 4 years old - Provides a list of popular toys and also gives access to
 ![](https://github.com/prajwalajayaprakash/Girl-Power/blob/master/images/2to4toys1.PNG)
 ![](https://github.com/prajwalajayaprakash/Girl-Power/blob/master/images/2to4toys2.PNG)
 
+__4. 5 to 7 years old - Layout remains same but with different toys__
+
+![](https://github.com/prajwalajayaprakash/Girl-Power/blob/master/images/5to7toys1.PNG)
+![](https://github.com/prajwalajayaprakash/Girl-Power/blob/master/images/5to7toys2.PNG)
+
+
 
 

@@ -1,5 +1,5 @@
 # Girl-Power
-Front end design of a web page providing STEM oriented resources. __Note: Pictures and resources are taken from AMAZON, Unsplash and other resources only to give examples.__
+Front end design of a web page providing STEM oriented resources. __Note: Pictures and resources are taken from AMAZON, Unsplash and other sites only to be used as examples.__
 
 Here is the progress of the web page till now!
 
